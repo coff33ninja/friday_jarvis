@@ -13,7 +13,37 @@ This agent uses LiveKit that is 100% free!
 
 ---
 
-## 📽️ Tutorial Video
+## � Usage
+
+To start the agent in different modes:
+
+- **Console Mode:**
+   ```
+   python agent.py console
+   ```
+   Launches the assistant in a text-based console interface.
+
+- **Playground Mode:**
+   ```
+   python agent.py dev
+   ```
+   Opens the playground (web app) for interactive chat and testing.
+
+---
+
+## ℹ️ About LiveKit
+
+LiveKit is an open-source platform for real-time audio, video, and data streaming. It powers the voice and web app features in Friday, enabling:
+
+- Real-time voice communication
+- WebRTC-based video and audio streaming
+- Scalable, free infrastructure for personal and developer use
+
+Learn more: [LiveKit Documentation](https://docs.livekit.io/)
+
+---
+
+## �📽️ Tutorial Video
 
 Before you start, **make sure to follow this tutorial to set up the voice agent correctly**:  
 🎥 [Watch here](https://youtu.be/An4NwL8QSQ4?si=v1dNDDonmpCG1Els)
